@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 void kotak(int panjang, int lebar) { 
     for (int a = 0; a < lebar; a++) {
